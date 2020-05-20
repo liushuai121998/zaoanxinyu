@@ -7,12 +7,12 @@
   .title {
     display: flex;
     flex-direction: column;
-    margin-left: 280px;
+    align-items: center;
     margin-top: 120px;
   }
   .title__icon {
       height: 75px;
-      margin-bottom: 10px;
+      margin-bottom: 20px;
   }
   .title__sub-icon {
       height: 40px;

@@ -1,6 +1,6 @@
 {
-  "package": "com.dujitang.package",
-  "name": "毒鸡汤",
+  "package": "com.zaoanxinyu.package",
+  "name": "早安心语",
   "versionName": "1.0.1",
   "versionCode": "1",
   "minPlatformVersion": "1060",
@@ -41,7 +41,7 @@
     "menu": true,
     "pages": {
       "Home": {
-        "titleBarText": "毒鸡汤",
+        "titleBarText": "早安心语",
         "menu": false,
         "titleBar": false
       }
