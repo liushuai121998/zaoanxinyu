@@ -41,7 +41,7 @@
     "menu": true,
     "pages": {
       "Home": {
-        "titleBarText": "早安心语",
+        "titleBarText": "晚安日记",
         "menu": false,
         "titleBar": false
       }
