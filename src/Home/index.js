@@ -47,7 +47,7 @@ export default Custom_page({
     }
     //   原生广告
     this.nativeAd = ad.createNativeAd({
-        adUnitId: 'f9beec05c09d4575b689c2c094ef25b7'
+        adUnitId: '80051345cbf749c792b634543cb41dcf'
     })
     this.nativeAd.load()
     this.nativeAd.onLoad((res) => {
@@ -80,7 +80,7 @@ export default Custom_page({
   insertAd() {
     if(ad.createInterstitialAd) {
       this.interstitialAd = ad.createInterstitialAd({
-          adUnitId: '6725456cd28d46f18f94bee23e748936'
+          adUnitId: '8ebec06937224121bbdaf4f047688da7'
       })
       this.interstitialAd.onLoad(()=> {
           this.interstitialAd.show();
